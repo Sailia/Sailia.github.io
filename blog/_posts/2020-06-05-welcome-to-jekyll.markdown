@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Erics booty!"
 date:   2020-06-05 19:12:21 -0500
 categories: jekyll update
 ---
